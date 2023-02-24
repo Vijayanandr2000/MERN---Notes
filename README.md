@@ -12,4 +12,6 @@
 
 6. [Intoduction About Node - Express - MongoDB](https://1drv.ms/p/s!AttBs2YyWk86iCPiTx8uad6gHU40)
 
-# [TODO - Frontend](https://github.com/Vijayanandr2000/todo)
+# [Basic Web App - HTML CSS JS](https://github.com/Vijayanandr2000/html-css-js-simple) --> Project 1
+# [TODO - Frontend](https://github.com/Vijayanandr2000/todo) --> Project 2
+# [TODO - Backend](https://github.com/Vijayanandr2000/todo-backend-node) --> Project 3
